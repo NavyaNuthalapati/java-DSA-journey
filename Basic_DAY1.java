@@ -1,5 +1,5 @@
 import java.util.*;//package to import Scanner class
-public class Basic{
+public class Basic_DAY1{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in); //defining scanner object
         System.out.println("Enter your name and age");
@@ -14,3 +14,4 @@ public class Basic{
         }
     }
 }
+

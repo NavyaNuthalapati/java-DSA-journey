@@ -1,5 +1,5 @@
 import java.util.*;
-public class arrayOne {
+public class DSA_DAY1 {
     public static int array(int arr[],int target){
          for(int i=0;i<arr.length;i++){
             if(arr[i]==target){
@@ -16,3 +16,4 @@ public class arrayOne {
         
      }
 }
+

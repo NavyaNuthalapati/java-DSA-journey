@@ -1,7 +1,7 @@
 # Java-DSA-journey 🔥
-
-# Day1 ⭐
-# Java Basics 
+## Folder Structure
+- Day1 →
+Java Basics ⭐
 Topic: Variables, Data Types & Input/Output.
 🧩 Focused on:
     1. int, double, char, boolean 
@@ -12,8 +12,8 @@ Topic: Variables, Data Types & Input/Output.
     Write a program that:
          1. Takes name & age
          2. Prints a formatted output
-
-# DSA focused
+         
+DSA focused ⭐
 Topic: Array Basics + Linear Search.
 🧩 Focused on:
         1. What's an Array and it's Syntax
@@ -23,9 +23,10 @@ Topic: Array Basics + Linear Search.
 📌 Task:
      1. Search a number in an array
      2. Print its index (or -1 if not found) //I Have learned functions topic too for this concept.
-
-# Day2 ⭐
-# JAVA :- if–else, switch
+   Java basics, arrays, linear search
+   
+- Day2 →
+ JAVA :- Control flow
 Topic: if–else & switch statements.
 🎯 Focus on:
       1.  if, else if, else
@@ -36,7 +37,7 @@ Topic: if–else & switch statements.
      1. Print The given number: “Positive / Negative / Zero”
      2. Take a day number (1–7) and Print day name using switch statement
 
-# DSA Focused :- Array traversal 
+ DSA Focused :- Array traversal 
 Topic: Array Traversal & Count Problems.
 🧩 Focused on:
       1. Understanding Looping through arrays
@@ -45,4 +46,10 @@ Topic: Array Traversal & Count Problems.
 📌 Task:
       1. Count even & odd numbers in an array
       2. Find largest element in an array
+
+
+
+      
+
+
 

@@ -1,4 +1,7 @@
 # Java-DSA-journey 🔥
+# About This Repo
+This repository tracks my Java + DSA journey as I prepare for coding interviews, GSoC contributions, and future SDE roles.
+
 ## Folder Structure
 - Day1 →
 Java Basics ⭐

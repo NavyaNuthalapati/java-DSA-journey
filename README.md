@@ -1,39 +1,53 @@
 # Java-DSA-journey 🔥
-# About This Repo
-This repository tracks my Java + DSA journey as I prepare for coding interviews, GSoC contributions, and future SDE roles.
+
+## About This Repo
+This repository tracks my Java + DSA learning journey as I prepare for coding interviews, GSoC contributions, and future SDE roles.
+
+---
 
 ## Folder Structure
-- Day1 →
-Java Basics ⭐
-Topic: Variables, Data Types & Input/Output.
-📌 Task:
-    Write a program that:
-         1. Takes name & age
-         2. Prints a formatted output
-         
-DSA focused ⭐
-Topic: Array Basics + Linear Search.
-📌 Task:
-     1. Search a number in an array
-     2. Print its index (or -1 if not found) //I Have learned functions topic too for this concept.
-   Java basics, arrays, linear search
-   
-- Day2 →
- JAVA :- Control flow
-Topic: if–else & switch statements.
-📌 Task:
-     1. Print The given number: “Positive / Negative / Zero”
-     2. Take a day number (1–7) and Print day name using switch statement
 
- DSA Focused :- Array traversal 
-Topic: Array Traversal & Count Problems.
-📌 Task:
-      1. Count even & odd numbers in an array
-      2. Find largest element in an array
+### 📁 Day 1
+**Java Topics**
+- Variables
+- Data Types
+- Input/Output
 
+**DSA Topics**
+- Array basics
+- Linear search
 
+**Tasks**
+1. Search a number in an array
+2. Print its index (or -1 if not found)
 
-      
+> Note: I also learned basic functions while implementing these problems.
+
+---
+
+### 📁 Day 2
+**Java Topics**
+- Control statements (if-else, switch)
+
+**DSA Topics**
+- Array traversal
+
+**Tasks**
+1. Count even & odd numbers in an array
+2. Find the largest element in an array
+
+---
+
+### 📁 Day 3
+**Java Topics**
+- Functions (Methods) in Java
+
+**DSA Topics**
+- Functions with arrays
+
+**Tasks**
+1. Find the maximum number in an array
+2. Count even numbers in an array
 
 
 

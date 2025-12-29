@@ -49,5 +49,15 @@ This repository tracks my Java + DSA learning journey as I prepare for coding in
 1. Find the maximum number in an array
 2. Count even numbers in an array
 
+### 📁 Day 4
+**DSA Topics**
+1. Time Complexity.
+2. What is Big-O notation?
+3. ComplexityExamples.
 
+**Tasks**
+1. Analyze:
+   - Linear Search → O(n)
+   - Finding max in array → O(n)
+   - Nested loops (if any) → O(n²)
 

@@ -52,8 +52,9 @@ This repository tracks my Java + DSA learning journey as I prepare for coding in
 ### 📁 Day 4
 **DSA Topics**
 1. Time Complexity.
-2. What is Big-O notation?
-3. ComplexityExamples.
+2. Space Complexity.
+3. What is Big-O notation?
+4. ComplexityExamples.
 
 **Tasks**
 1. Analyze:

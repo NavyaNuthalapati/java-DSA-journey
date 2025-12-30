@@ -33,5 +33,14 @@ Big O notation, denoted as O(g(n)), means a function f(n)f(n) grows no faster th
    - O(nlogn): Seen in efficient sorts like mergesort.
    - O(n^2): Quadratic time, like nested loops in bubble sort.
    - O(2^n): Exponential, impractical for large inputs.
-      
+
+# SPACE COMPLEXITY
+The Amount of space occupied by the program in memory describes the Space Complexity.
+NOTE:-
+The space is occupied in 2 forms!!
+  1.Heap -The objects that we create will be stored in Heap
+  2.Stack -The function calls will be stored in Stack
+Therefore; "input space+ auxiliary space" IS SPACE COMPLEXITY
+O(1)-Best case 
+O(n^2)-Worst case
 

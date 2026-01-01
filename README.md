@@ -62,3 +62,18 @@ This repository tracks my Java + DSA learning journey as I prepare for coding in
    - Finding max in array → O(n)
    - Nested loops (if any) → O(n²)
 
+### 📁 Day 5
+**DSA Topics**
+- Recursion
+- What is recursion
+- Base case
+- Recursive call
+- Why base case is compulsory
+- How stack works (conceptually)
+
+**Tasks**
+1️. Print numbers from N to 1 using recursion
+2️. Print numbers from 1 to N using recursion
+3️. Factorial of a number using recursion
+4. Sum of N natural numbers
+

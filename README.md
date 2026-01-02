@@ -72,8 +72,9 @@ This repository tracks my Java + DSA learning journey as I prepare for coding in
 - How stack works (conceptually)
 
 **Tasks**
-1️. Print numbers from N to 1 using recursion
-2️. Print numbers from 1 to N using recursion
-3️. Factorial of a number using recursion
-4. Sum of N natural numbers
+1. Recurssion Basics:
+ - Print numbers from N to 1 using recursion
+ - Print numbers from 1 to N using recursion
+ - Factorial of a number using recursion
+ - Sum of N natural numbers
 

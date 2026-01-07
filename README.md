@@ -80,16 +80,29 @@ This repository tracks my Java + DSA learning journey as I prepare for coding in
 
 ### 📁 Day 6
 **DSA Topics**
-Logic Building Problems
+Logic Building Problems-Part1
 Using GeeksForGeeks Platform
 
 **Tasks**
--Check Even or Odd
--Multiplication Table
--Sum of Naturals
--Sum of Squares of Naturals
--Swap Two Numbers
--Dice Problem
--Sum of Digits
--Reverse Digits
--Prime Testing
+1.Solving basic logic building problems-part1:
+   - Sum of Digits
+   - Check Even or Odd
+   - Multiplication Table
+   - Sum of Naturals
+   - Sum of Squares of Naturals
+   - Swap Two Numbers
+   - Dice Problem
+   - Reverse Digits
+   - Prime Testing
+
+### 📁 Day 7
+**DSA Topics**
+Logic Building Problems-Part2
+Using GFG along with Ladder1
+
+**Tasks**
+1.Solving basic logic building problems-part2:
+   - Valid Triangle
+   - Factorial of a Number
+   - Palindrome
+   - Factorial Trailing zeros

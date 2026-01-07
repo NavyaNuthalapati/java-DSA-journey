@@ -78,3 +78,18 @@ This repository tracks my Java + DSA learning journey as I prepare for coding in
  - Factorial of a number using recursion
  - Sum of N natural numbers
 
+### 📁 Day 6
+**DSA Topics**
+Logic Building Problems
+Using GeeksForGeeks Platform
+
+**Tasks**
+-Check Even or Odd
+-Multiplication Table
+-Sum of Naturals
+-Sum of Squares of Naturals
+-Swap Two Numbers
+-Dice Problem
+-Sum of Digits
+-Reverse Digits
+-Prime Testing

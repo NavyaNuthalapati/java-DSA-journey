@@ -106,3 +106,14 @@ Using GFG along with Ladder1
    - Factorial of a Number
    - Palindrome
    - Factorial Trailing zeros
+
+### 📁 Day 8
+**DSA Topics**
+Logic Building Problems-Part2
+Using GFG along with Leet code
+
+**Tasks**
+1.Solving basic logic building problems-part3:
+- Palindrome
+- Armstrong
+- nPr

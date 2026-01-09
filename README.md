@@ -114,6 +114,6 @@ Using GFG along with Leet code
 
 **Tasks**
 1.Solving basic logic building problems-part3:
-- Palindrome
+- Palindrome Check it out [here](https://leetcode.com/problems/palindrome-number/description/) on leetcode!!
 - Armstrong
 - nPr

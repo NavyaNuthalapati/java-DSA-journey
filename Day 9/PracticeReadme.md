@@ -10,7 +10,7 @@ Printing the same values of the n sized array in 2n sized array, {nums[0],nums[1
 ## Final Outcome By this problem
 The logic for this problem can be multiple ways/Approaches but giving optimised is the best one!! but as a beginner it is ok with the starting kinda beginner-thinking way!
 
-# 📍Check it out [here!](https://leetcode.com/problems/concatenation-of-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i)##
+# 📍Check it out [here!](https://leetcode.com/problems/concatenation-of-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i)
 
 # GeeksForGeeks problem 🔥
 

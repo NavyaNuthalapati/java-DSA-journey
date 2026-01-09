@@ -112,8 +112,19 @@ Using GFG along with Ladder1
 Logic Building Problems-Part2
 Using GFG along with Leet code
 
+
 **Tasks**
 1.Solving basic logic building problems-part3:
 - Palindrome Check it out [here](https://leetcode.com/problems/palindrome-number/description/) on leetcode!!
 - Armstrong
 - nPr
+
+### 📁 Day 9
+**DSA Topics**
+Array Intermediate Level
+Problem Solving On Leetcode and GFG!
+
+**Tasks**
+1.Array:-
+- Concatenation of array
+- Average of array return String type

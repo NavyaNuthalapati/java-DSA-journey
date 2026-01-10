@@ -121,10 +121,19 @@ Using GFG along with Leet code
 
 ### 📁 Day 9
 **DSA Topics**
-Array Intermediate Level
-Problem Solving On Leetcode and GFG!
+- Array Intermediate Level
+- Problem Solving On Leetcode and GFG!
 
 **Tasks**
 1.Array:-
 - Concatenation of array
 - Average of array return String type
+
+### 📁 Day 10
+**DSA Topics**
+- Array Intermediate Level
+- Problem Solving On Leetcode and GFG!
+
+**Tasks**
+- Print Alternates in array
+- Shuffle the array

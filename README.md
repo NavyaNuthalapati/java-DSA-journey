@@ -137,3 +137,7 @@ Using GFG along with Leet code
 **Tasks**
 - Print Alternates in array
 - Shuffle the array
+
+### 📁 Day 11
+**DSA Topics**
+- Max Consecutive Ones on LEETCODE

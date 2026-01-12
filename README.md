@@ -141,3 +141,7 @@ Using GFG along with Leet code
 ### 📁 Day 11
 **DSA Topics**
 - Max Consecutive Ones on LEETCODE
+
+### 📁 Day 12
+**DSA Topics**
+- Sorted array or not on GEEKSFORGEEKS
